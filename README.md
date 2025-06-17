@@ -132,6 +132,6 @@ Please feel free to [open a GitHub issue](https://github.com/microsoft/fluentui-
 - Will Hou([@willhou](https://github.com/willhou)) - Android
 - Akashdeep Singh([@aakash1313](https://github.com/aakash1313)) - Flutter
 
-## Code of Conduct
+## Code of Conduct  
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct) or contact opencode@microsoft.com with any additional questions or comments.
